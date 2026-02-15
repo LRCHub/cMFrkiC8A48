@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "透明だった世界",
+  "base_artist": "Motohiro Hata",
+  "createdAt": "2026-02-15T12:27:45.548963Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "透明だった世界",
+      "artist": "Motohiro Hata",
+      "has_synced": true,
+      "path": "select/01_透明だった世界_Motohiro_Hata.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "透明だった世界",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/02_透明だった世界_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "透明だった世界",
+      "artist": "ANISON PROJECT",
+      "has_synced": false,
+      "path": "select/03_透明だった世界_ANISON_PROJECT.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "透明だった世界",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/04_透明だった世界_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "透明だった世界",
+      "artist": "Motohiro Hata",
+      "has_synced": true,
+      "path": "select/05_透明だった世界_Motohiro_Hata.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "透明だった世界",
+      "artist": "Motohiro Hata",
+      "has_synced": true,
+      "path": "select/06_透明だった世界_Motohiro_Hata.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "透明だった世界 - Toumeidatta Sekai",
+      "artist": "Motohiro Hata",
+      "has_synced": true,
+      "path": "select/07_透明だった世界_-_Toumeidatta_Sekai_Motohiro_Hata.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "透明だった世界",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/08_透明だった世界_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "透明だった世界",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/09_透明だった世界_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "透明だった世界（第154話〜第179話）",
+      "artist": "Kyo Kimura",
+      "has_synced": true,
+      "path": "select/10_透明だった世界(第154話〜第179話)_Kyo_Kimura.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "透明だった世界",
+      "artist": "秦　基博",
+      "has_synced": true,
+      "path": "select/11_透明だった世界_秦_基博.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "01 透明だった世界",
+      "artist": "秦基博から",
+      "has_synced": true,
+      "path": "select/12_01_透明だった世界_秦基博から.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "透明だった世界 (曾经透明的世界)",
+      "artist": "秦基博 (はたもとひろ)",
+      "has_synced": true,
+      "path": "select/13_透明だった世界_(曾经透明的世界)_秦基博_(はたもとひろ).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "透明だった世界 (evergreen ver.)",
+      "artist": "Hata Motohiro",
+      "has_synced": false,
+      "path": "select/14_透明だった世界_(evergreen_ver.)_Hata_Motohiro.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Toumei Datta Sekai (透明だった世界)",
+      "artist": "Hata Motohiro",
+      "has_synced": true,
+      "path": "select/15_Toumei_Datta_Sekai_(透明だった世界)_Hata_Motohiro.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "透明だった世界 (Tōmei Datta Sekai)",
+      "artist": "Motohiro Hata",
+      "has_synced": true,
+      "path": "select/16_透明だった世界_(Tōmei_Datta_Sekai)_Motohiro_Hata.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "透明だった世界",
+      "artist": "Hata Motohiro",
+      "has_synced": true,
+      "path": "select/17_透明だった世界_Hata_Motohiro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "透明だった世界",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_01_透明だった世界_秦_基博.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "透明だった世界",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_02_透明だった世界_秦_基博.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "透明だった世界",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_03_透明だった世界_秦_基博.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "透明だった世界",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_04_透明だった世界_秦_基博.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "透明だった世界",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_05_透明だった世界_秦_基博.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "透明だった世界",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_06_透明だった世界_秦_基博.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "透明だった世界",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_07_透明だった世界_秦_基博.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "透明だった世界",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_08_透明だった世界_秦_基博.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "透明だった世界",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_09_透明だった世界_秦_基博.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "透明だった世界",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_10_透明だった世界_秦_基博.txt"
+    }
+  ]
+}
